@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Personal Website
+# Francisco Benita
 
 Hi, I'm **Your Name**! Welcome to my personal website.
