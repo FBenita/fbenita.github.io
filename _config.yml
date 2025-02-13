@@ -1,0 +1,14 @@
+# Site settings
+title: "Your Name"                 # Your site title
+description: "Your personal website" # A short description of your site
+baseurl: ""                         # The subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # The base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Other optional settings
+author: 
+  name: "Your Name"
+  email: "your.email@example.com"
