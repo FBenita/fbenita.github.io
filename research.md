@@ -10,7 +10,7 @@ You can find the full list of my publications on [Google Scholar](https://schola
 ### Transportation Systems & Travel Behaviour
 
 - *Exploring non-mandatory travel behavior in Jakarta City: travel time, trip frequency, and socio-demographic influences*  
-  <font color="red">Transportation Research Interdisciplinary Perspectives (2023)</font> [<Link>](https://doi.org/10.1016/j.trip.2023.100896)
+  <font color="red">Transportation Research Interdisciplinary Perspectives (2023)</font> [Link](https://doi.org/10.1016/j.trip.2023.100896)
 
 - *Understanding short-distance travel to school in Singapore: A data-driven approach* (with G. Bansal, G. Piliouras, and B. Tunçer)  
   <font color="red">Travel Behaviour and Society (2023)</font> [<Link>](https://doi.org/10.1016/j.tbs.2023.01.007)
