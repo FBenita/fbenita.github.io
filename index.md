@@ -1,7 +1,3 @@
-layout: default
-title: Home
----
-
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin: 20px;">
   <div style="flex: 1; max-width: 200px; margin-right: 20px;">
     <img src="https://github.com/FBenita/fbenita.github.io/blob/8103cc150747880551a7e355b89d3e0f224a2cde/face.jpg?raw=true" alt="Francisco Benita" style="width: 100%; border-radius: 50%;">
@@ -25,7 +21,5 @@ title: Home
     
     <h2>Open Positions</h2>
     <p>If you are interested in potential funded PhD opportunities in transportation systems, big data analytics in supply chain, algorithmic optimization or computational statistics, please feel free to contact me.</p>
-  </div>
-</div>
- 
+
 
