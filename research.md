@@ -3,7 +3,14 @@ layout: default
 title: Research
 ---
 
-You can find the full list of my publications on [Google Scholar](https://scholar.google.com/citations?user=82xUhgwAAAAJ&hl=en). Below is a list of selected publications categorized by main areas of interest.
+You can find the full list of my publications on [Google Scholar](https://scholar.google.com/citations?user=82xUhgwAAAAJ&hl=en). 
+
+
+
+<p style="color: red;">If you have difficulty to access any article, please send me an email with the title of the paper. I will send you the manuscript.</p>
+
+
+Below is a list of selected publications categorized by main areas of interest.
 
 ## Selected Papers
 
