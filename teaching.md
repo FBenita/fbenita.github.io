@@ -15,6 +15,8 @@ title: Teaching
 <em>2021 - 2024</em></p>
 <ul>
   <li><span style="color: #5a5a5a;"><strong>10.022 Modelling Uncertainty</strong></span> (Year 1)</li>
+      <ul>
+        <li> Course Lead 2014 <li>
  <li><span style="color: #5a5a5a;"><strong>Capstone</strong></span> (Year 4)
     <ul>
       2023/2024 Projects:
@@ -30,12 +32,16 @@ title: Teaching
   </li>
   <li><span style="color: #5a5a5a;"><strong>40.014 Engineering Systems Architecture</strong></span> (Year 2)</li>
 </ul>
+      <ul>
+        <li> Course Lead and Curriculum Developer <li>
 
 <p><span style="color: #2e6da4;"><strong>Design and Artificial Intelligence, Singapore University of Technology and Design</strong></span> <br>
 <em>2023 - 2024</em></p>
 <ul>
   <li><span style="color: #5a5a5a;"><strong>60.008 Systems Design Studio</strong></span> (Year 3)</li>
 </ul>
+      <ul>
+        <li> Course Lead and Curriculum Developer <li>
 
 ## Postgraduate Courses
 
