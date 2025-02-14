@@ -6,7 +6,7 @@ title: Service
 ## Service Activities
 
 - **Mentor** – Science Mentorship Program (SMP) of the Singapore Ministry of Education (2024)
-- **Workshop Facilitator** – Computing Walkability Indicators with Open Data, GeoPython (2024)
+- **Workshop Facilitator** – "Computing Walkability Indicators with Open Data", GeoPython (2024)
 - **Workshop Facilitator** – "Modelling Uncertainty", Universitas Gadjah Mada (2023), Sepuluh Nopember Institute of Technology (2024)
 - **Chair & Senior Committee Member** – European Conference on Operational Research (2021)
 - **Technical Reviewer** – Social Sciences and Humanities Research Council of Canada (2021)
