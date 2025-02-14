@@ -3,8 +3,6 @@ layout: default
 title: Teaching
 ---
 
-Below is a list of my teaching experience categorized by educational level.
-
 ## Undergraduate Courses
 
 <p><span style="color: #2e6da4;"><strong>School of Engineering and Sciences, Tecnológico de Monterrey</strong></span> <br>
@@ -23,14 +21,11 @@ Below is a list of my teaching experience categorized by educational level.
       <li><a href="https://capstone2022.sutd.edu.sg/staff/francisco-benita">2022/2023 Projects</a></li>
       2023/2024 Projects:
       <ul>
-        <li><a href="https://capstoneshowcase.sutd.edu.sg/project/proj-s08-continental-self-automated-containment-system/">Project 1: Self-Automated Containment System</a></li>
-        <li><a href="https://capstoneshowcase.sutd.edu.sg/project/airport-mapper/">Project 2: Airport Mapper</a></li>
-        <li><a href="https://capstoneshowcase.sutd.edu.sg/project/proj-s14-enerva-marine-optimizing-maritime-shipping-efficiency-with-ai/">Project 3: Enerva Marine</a></li>
+        <li><a href="https://capstoneshowcase.sutd.edu.sg/project/proj-s08-continental-self-automated-containment-system/">Project 1</a>; <a href="https://capstoneshowcase.sutd.edu.sg/project/airport-mapper/">Project 2</a>;
+       <a href="https://capstoneshowcase.sutd.edu.sg/project/proj-s14-enerva-marine-optimizing-maritime-shipping-efficiency-with-ai/">Project 3</a></li>
       </ul>
     </ul>
-    <p><font color="darkgray">3rd place Faculty Awards (2021)</font></p>
-    <p><font color="darkgray">3rd place Faculty Awards (2022)</font></p>
-    <p><font color="darkgray">1st place Public Award (2023/2024)</font></p>
+    <p><font color="darkgray">3rd place Faculty Awards (2021); 3rd place Faculty Awards (2022); 1st place Public Award (2023/2024)</font></p>
   </li>
   <li><span style="color: #5a5a5a;"><strong>40.014 Engineering Systems Architecture</strong></span> (Year 2)</li>
 </ul>
