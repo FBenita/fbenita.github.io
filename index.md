@@ -11,7 +11,7 @@ title: Home
     <p style="font-size: 0.9em;">
       <a href="https://scholar.google.com/citations?user=82xUhgwAAAAJ&hl=en" target="_blank">Google Scholar</a> |
       <a href="https://www.researchgate.net/profile/Francisco-Benita" target="_blank">ResearchGate</a> |
-      <a href="[https://orcid.org/](https://orcid.org/0000-0003-4867-5149)" target="_blank">ORCID</a>
+      <a href="https://orcid.org/0000-0003-4867-5149" target="_blank">ORCID</a>
     </p>
   </div>
   <div style="flex: 2;">
