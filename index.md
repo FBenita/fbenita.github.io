@@ -1,24 +1,27 @@
----
 layout: default
 title: Home
 ---
 
 # Francisco Benita
-Research Professor
-School of Engineering & Sciences
-Tecnológico de Monterrey
+## Research Professor, School of Engineering & Sciences
+### Tecnológico de Monterrey
 
-![Meixia LIN](https://via.placeholder.com/150 "Your Photo") 
+![Francisco Benita](https://via.placeholder.com/150 "Your Photo")
 
+Welcome to my personal page! I am Francisco Benita, currently serving as a Research Professor at the School of Engineering & Sciences at Tecnológico de Monterrey. Additionally, I hold the position of Adjunct Lecturer at the Engineering Systems and Design Pillar at the Singapore University of Technology and Design.
 
+Before my position at Tecnológico de Monterrey, I was a Lecturer at the Singapore University of Technology and Design, where I also spent five memorable years as a Research Fellow. I earned my Ph.D. in Engineering Sciences from Tecnológico de Monterrey.
 
-I am currently a Research Professor at the School of Engineering & Sciences at Tecnológico de Monterrey and Adjunct Lecturer at Engineering Systems and Design Pillar, Singapore University of Technology and Design. Prior to Tecnológico de Monterrey I was Lecturer the Singapore University of Technology and Design and I spent five very memorable years as research fellow in the same institution. I received my Ph.D in Engineering Sciences from Tecnológico de Monterrey. My interests are 
+## Research Interests
+My research interests span several key areas, including:
+- Urban Systems and Environmental Design
+- Transportation Systems and Travel Behavior.
+- Optimization and Decision Support Systems.
 
 ## Open Positions
+If you are interested in potential funded PhD opportunities in in transportation systems, big data analytics in supply chain, algorithmic optimization or computational statistics, please feel free to contact me.
 
-I am looking for:
-- PhD applicants with strong backgrounds in optimization, fully-supported by SUTD / AISG / SINGA scholarship.
-- Students and visiting scholars with strong interests in the area of optimization, data science, and machine learning.
-- Research assistants and research interns with relevant research experience on numerical optimization.
+---
 
-Please contact me via email if you are interested to work with me at Monterrey Tec.
+ 
+
