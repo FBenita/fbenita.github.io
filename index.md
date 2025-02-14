@@ -21,7 +21,7 @@
     <p>I am particularly interested in applying operations research methodologies and statistical methods to urban systems, transportation, travel behavior, and decision support systems.</p>
     
     <h2>Open Positions</h2>
-    <p>If you are interested in potential funded PhD opportunities in transportation systems, big data analytics in supply chain, algorithmic optimization, or computational statistics, the PhD position is available at Tec de Monterrey. Please feel free to contact me.</p>
+    <p>If you are interested in potential funded PhD opportunities in transportation systems, big data analytics in supply chain, algorithmic optimization, or computational statistics, the PhD position is available at Tec de Monterrey. Please feel free to contact me at francisco_benita{at} tec {dot} mx.</p>
 
     <h2>News</h2>
     <ul>
