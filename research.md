@@ -102,7 +102,7 @@ You can find the full list of my publications on [Google Scholar](https://schola
     <font color="darkgray">Sustainable Cities and Society (2022)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.scs.2022.104158">[Link]</a></span></li>
 
   <li><em>Human mobility behavior in COVID-19: A systematic literature review and bibliometric analysis</em><br>
-    <font color="darkgray">Sustainable Cities and Society 70 (2021)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.scs.2021.102916">[Link]</a></span></li>
+    <font color="darkgray">Sustainable Cities and Society (2021)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.scs.2021.102916">[Link]</a></span></li>
 
   <li><em>The main factors influencing COVID-19 spread and deaths in Mexico: A comparison between phases I and II</em> (with F. Gasca-Sanchez)<br>
     <font color="darkgray">Applied Geography (2021)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.apgeog.2021.102523">[Link]</a></span></li>
