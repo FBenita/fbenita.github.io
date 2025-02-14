@@ -24,7 +24,7 @@ title: Home
     <p> I am particularly interested in applying operations research methodologies and statistical methods to urban systems, transportation, travel behavior, and decision support systems. <p>
     
     <h2>Open Positions</h2>
-    <p>If you are interested in potential funded PhD opportunities in in transportation systems, big data analytics in supply chain, algorithmic optimization or computational statistics, please feel free to contact me.</p>
+    <p>If you are interested in potential funded PhD opportunities in transportation systems, big data analytics in supply chain, algorithmic optimization or computational statistics, please feel free to contact me.</p>
   </div>
 </div>
  
