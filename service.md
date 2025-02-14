@@ -21,7 +21,7 @@ title: Service
 
 - GeoPython 2024 (Switzerland)
 - POMS-HK 2024 (Hong Kong)
-- Economics Conference at Penn State Altoona (USA/Remote)
+- Economics Conference at Penn State Altoona 2024 (USA/Remote)
 - 23rd ISMP 2021 (Greece/Remote)
 - CMStatistics 2021 (UK/Remote)
 - WINE 2020 (China/Remote)
