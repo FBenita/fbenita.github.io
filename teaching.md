@@ -26,7 +26,7 @@ title: Teaching
       <li><a href="https://capstone2022.sutd.edu.sg/staff/francisco-benita">2022/2023 Projects</a></li>
       <li><a href="https://capstone2021.sutd.edu.sg/staff/francisco-benita">2021/2022 Projects</a></li>
     </ul>
-    <p><font color="darkgray">1st place Public Award (2023/2024); 3rd place Faculty Awards (2022); 3rd place Faculty Awards (2021)</font></p>
+    <p><font color="darkgray">1st place Public Award (2024); 3rd place Faculty Awards (2023); 3rd place Faculty Awards (2022)</font></p>
   </li>
   <li><span style="color: #5a5a5a;"><strong>40.014 Engineering Systems Architecture</strong></span> (Year 2)</li>
 </ul>
