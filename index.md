@@ -27,12 +27,12 @@
       <li>12/2024: Two papers got accepted in 2024 IEEE Region 10 Conference (TENCON). Happy to see the outcome of six high-school students incursionating into the research world.</li>
       <li>12/2024: New <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778824010302" target="_blank">paper</a> on a thermal comfort-based Decision Support Tool for context-based walkway design at Energy and Buildings.</li>
       <li>11/2024: Joined Tecnológico de Monterrey as Research Professor</li>
-      <li>08/2024: Talk at Pennsylvania State University at Altoona on circular entrepreneurship <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bsd2.70006" target="_blank">paper</a></li>
+      <li>08/2024: Talk at Pennsylvania State University at Altoona on circular entrepreneurship (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bsd2.70006" target="_blank">paper</a>)</li>
       <li>02/2024: Open-source <a href="https://ddum-sutd.github.io/walkable_southeastasia-main/" target="_blank">repository</a> on data-driven assessment of walkability in Southeast Asian cities</li>
       <li>05/2024: Workshop at GeoPython 2024 (University of Applied Sciences and Arts Northwestern Switzerland) on computing walkability indicators with open data</li>
       <li>01/2024: Talk at <a href="https://pomshk2024.hkust.edu.hk/" target="_blank">14th POMS-HK</a> on aircraft routing problems</li>
       <li>01/2024: <a href="https://ddum-sutd.github.io/Image-based%20vehicle%20traffic%20monitoring/" target="_blank">Educational Module</a> on Image-based vehicle traffic monitoring</li>
-      <li>01/2024: New Grant from the National Supercomputing Centre (NSCC) (Project ID 15003859) for CPU and GPU card hours</li>
+      <li>01/2024: New Grant from the National Supercomputing Centre (NSCC) Singapore (Project ID 15003859) for CPU and GPU card hours</li>
     </ul>
   </div>
 </div>
