@@ -7,235 +7,111 @@ You can find the full list of my publications on [Google Scholar](https://schola
 
 ## Selected Papers
 
-<style>
-  /* Ensure proper spacing */
-  .publication {
-    margin-bottom: 15px;
-  }
-
-  .publication-title {
-    font-style: italic;
-    margin-bottom: 0;
-  }
-
-  .publication-venue {
-    font-weight: bold;
-    font-size: 14px;
-    color: red;
-  }
-
-  .publication-link {
-    font-size: 14px;
-    color: blue;
-    text-decoration: none;
-  }
-
-  .publication-link:hover {
-    text-decoration: underline;
-  }
-
-  .publication-info {
-    margin-bottom: 5px;
-  }
-</style>
-
 <p><strong>Transportation Systems & Travel Behaviour</strong></p>
 
-<div class="publication">
-  <p class="publication-title">Exploring non-mandatory travel behavior in Jakarta City: travel time, trip frequency, and socio-demographic influences</p>
-  <p class="publication-info">
-    <span class="publication-venue">Transportation Research Interdisciplinary Perspectives (2023)</span>
-    <a href="https://doi.org/10.1016/j.trip.2023.100896" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Exploring non-mandatory travel behavior in Jakarta City: travel time, trip frequency, and socio-demographic influences</em></p>
+<p><font color="darkgray">Transportation Research Interdisciplinary Perspectives (2023)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.trip.2023.100896">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Understanding short-distance travel to school in Singapore: A data-driven approach</p>
-  <p class="publication-info">
-    <span class="publication-venue">Travel Behaviour and Society (2023)</span>
-    <a href="https://doi.org/10.1016/j.tbs.2023.01.007" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Understanding short-distance travel to school in Singapore: A data-driven approach</em> (with G. Bansal, G. Piliouras, and B. Tunçer)</p>
+<p><font color="darkgray">Travel Behaviour and Society (2023)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.tbs.2023.01.007">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Effects of urban park spatial characteristics on visitor density and diversity: A geolocated social media approach</p>
-  <p class="publication-info">
-    <span class="publication-venue">Landscape and Urban Planning (2022)</span>
-    <a href="https://doi.org/10.1016/j.landurbplan.2022.104514" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Effects of urban park spatial characteristics on visitor density and diversity: A geolocated social media approach</em> (with IT. Chuang, and B. Tunçer)</p>
+<p><font color="darkgray">Landscape and Urban Planning (2022)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.landurbplan.2022.104514">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">A spatial livability index for dense urban centers</p>
-  <p class="publication-info">
-    <span class="publication-venue">Environment and Planning B (2021)</span>
-    <a href="https://doi.org/10.1177/23998083209601" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>A spatial livability index for dense urban centers</em> (with V. Kalashnikov, B. Tunçer)</p>
+<p><font color="darkgray">Environment and Planning B (2021)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1177/23998083209601">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Carpool to work: Determinants at the county-level in the United States</p>
-  <p class="publication-info">
-    <span class="publication-venue">Journal of Transport Geography (2020)</span>
-    <a href="https://doi.org/10.1016/j.jtrangeo.2020.102791" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Carpool to work: Determinants at the county-level in the United States</em></p>
+<p><font color="darkgray">Journal of Transport Geography (2020)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.jtrangeo.2020.102791">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">A new measure of transport disadvantage for the developing world using free smartphone data</p>
-  <p class="publication-info">
-    <span class="publication-venue">Social Indicators Research (2019)</span>
-    <a href="https://doi.org/10.1007/s11205-019-02107-x" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>A new measure of transport disadvantage for the developing world using free smartphone data</em></p>
+<p><font color="darkgray">Social Indicators Research (2019)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1007/s11205-019-02107-x">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Public spaces and happiness: Evidence from a large-scale field experiment</p>
-  <p class="publication-info">
-    <span class="publication-venue">Health & Place (2019)</span>
-    <a href="https://doi.org/10.1016/j.healthplace.2019.01.014" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Public spaces and happiness: Evidence from a large-scale field experiment</em> (with G. Bansal and B. Tunçer)</p>
+<p><font color="darkgray">Health & Place (2019)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.healthplace.2019.01.014">[Link]</a></span></p>
 
 <p><strong>Decision Support Systems</strong></p>
 
-<div class="publication">
-  <p class="publication-title">A Novel Decision Support Framework for Multi-Objective Aircraft Routing Problem</p>
-  <p class="publication-info">
-    <span class="publication-venue">Under review</span>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4704984" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>A Novel Decision Support Framework for Multi-Objective Aircraft Routing Problem</em> (with F. López-Ramos, and N. Antunes Ribeiro)</p>
+<p><font color="darkgray">Under review</font><span style="margin-left: 5px;"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4704984">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">A thermal comfort-based Decision Support Tool (DST) for context-based walkway design</p>
-  <p class="publication-info">
-    <span class="publication-venue">Energy and Buildings (2024)</span>
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778824010302" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>A thermal comfort-based Decision Support Tool (DST) for context-based walkway design</em> (with R. Subramanian, and B. Tunçer)</p>
+<p><font color="darkgray">Energy and Buildings (2024)</font><span style="margin-left: 5px;"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778824010302">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Data-driven thinking for measuring the human experience in the built environment</p>
-  <p class="publication-info">
-    <span class="publication-venue">International Journal of Architectural Computing (2022)</span>
-    <a href="https://doi.org/10.1177/14780771211025142" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Data-driven thinking for measuring the human experience in the built environment</em> (with B. Tunçer)</p>
+<p><font color="darkgray">International Journal of Architectural Computing (2022)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1177/14780771211025142">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Routing games in the wild: efficiency, equilibration, regret & a price of anarchy bound via long division</p>
-  <p class="publication-info">
-    <span class="publication-venue">ACM Transactions on Economics and Computation (2022)</span>
-    <a href="https://doi.org/10.1145/3512747" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Routing games in the wild: efficiency, equilibration, regret & a price of anarchy bound via long division</em> (with B. Monnot and G. Piliouras)</p>
+<p><font color="darkgray">ACM Transactions on Economics and Computation (2022)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1145/3512747">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">A smart learning ecosystem design for delivering data-driven thinking in STEM education</p>
-  <p class="publication-info">
-    <span class="publication-venue">Smart Learning Environments (2021)</span>
-    <a href="https://doi.org/10.1186/s40561-021-00153-y" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>A smart learning ecosystem design for delivering data-driven thinking in STEM education</em> (with D. Virupaksha, E. Wilhelm, and B. Tunçer)</p>
+<p><font color="darkgray">Smart Learning Environments (2021)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1186/s40561-021-00153-y">[Link]</a></span></p>
 
 <p><strong>Optimization Methods</strong></p>
 
-<div class="publication">
-  <p class="publication-title">A cooperative bargaining framework for decentralized portfolio optimization</p>
-  <p class="publication-info">
-    <span class="publication-venue">Journal of Mathematical Economics (2022)</span>
-    <a href="https://doi.org/10.1016/j.jmateco.2022.102789" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>A cooperative bargaining framework for decentralized portfolio optimization</em> (with S. Nasini and R. Nessah)</p>
+<p><font color="darkgray">Journal of Mathematical Economics (2022)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.jmateco.2022.102789">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">A bi-level programming approach for global investment strategies with financial intermediation</p>
-  <p class="publication-info">
-    <span class="publication-venue">European Journal of Operational Research (2019)</span>
-    <a href="https://doi.org/10.1016/j.ejor.2018.10.009" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>A bi-level programming approach for global investment strategies with financial intermediation</em> (with S. Nasini and F. López-Ramos)</p>
+<p><font color="darkgray">European Journal of Operational Research (2019)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.ejor.2018.10.009">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Solving optimal control problems with terminal complementarity constraints via Scholtes' relaxation scheme</p>
-  <p class="publication-info">
-    <span class="publication-venue">Computational Optimization and Applications (2019)</span>
-    <a href="https://doi.org/10.1007/s10589-018-0050-y" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Solving optimal control problems with terminal complementarity constraints via Scholtes' relaxation scheme</em> (with P. Mehlitz)</p>
+<p><font color="darkgray">Computational Optimization and Applications (2019)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1007/s10589-018-0050-y">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Optimal control problems with terminal complementarity constraints</p>
-  <p class="publication-info">
-    <span class="publication-venue">SIAM Journal on Optimization (2018)</span>
-    <a href="https://doi.org/10.1137/16M107637X" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Optimal control problems with terminal complementarity constraints</em> (with P. Mehlitz)</p>
+<p><font color="darkgray">SIAM Journal on Optimization (2018)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1137/16M107637X">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Bi-objective project portfolio selection in Lean Six Sigma</p>
-  <p class="publication-info">
-    <span class="publication-venue">International Journal of Production Economics (2017)</span>
-    <a href="https://doi.org/10.1016/j.ijpe.2017.01.015" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Bi-objective project portfolio selection in Lean Six Sigma</em> (with V. Kalashnikov, F. López-Ramos and A. Hernández-Luna)</p>
+<p><font color="darkgray">International Journal of Production Economics (2017)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.ijpe.2017.01.015">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Bilevel optimal control with final-state-dependent finite-dimensional lower level</p>
-  <p class="publication-info">
-    <span class="publication-venue">SIAM Journal on Optimization (2016)</span>
-    <a href="https://doi.org/10.1137/15M1015984" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Bilevel optimal control with final-state-dependent finite-dimensional lower level</em> (with P. Mehlitz)</p>
+<p><font color="darkgray">SIAM Journal on Optimization (2016)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1137/15M1015984">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Bilevel optimal control problems with pure state constraints and finite-dimensional lower level</p>
-  <p class="publication-info">
-    <span class="publication-venue">SIAM Journal on Optimization (2016)</span>
-    <a href="https://doi.org/10.1137/141000889" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Bilevel optimal control problems with pure state constraints and finite-dimensional lower level</em> (with S. Dempe and P. Mehlitz)</p>
+<p><font color="darkgray">SIAM Journal on Optimization (2016)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1137/141000889">[Link]</a></span></p>
 
 <p><strong>Regional Economics</strong></p>
 
-<div class="publication">
-  <p class="publication-title">On the circular entrepreneurship across continents: An analysis of terms of business descriptors</p>
-  <p class="publication-info">
-    <span class="publication-venue">Business Strategy & Development (2024)</span>
-    <a href="https://doi.org/10.1002/bsd2.70006" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>On the circular entrepreneurship across continents: An analysis of terms of business descriptors</em> (with P. Srinivasan)</p>
+<p><font color="darkgray">Business Strategy & Development (2024)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1002/bsd2.70006">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Associations between street connectivity and poverty</p>
-  <p class="publication-info">
-    <span class="publication-venue">Networks and Spatial Economics (2022)</span>
-    <a href="https://doi.org/10.1007/s11067-022-09561-0" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Associations between street connectivity and poverty</em></p>
+<p><font color="darkgray">Networks and Spatial Economics (2022)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1007/s11067-022-09561-0">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Testing the static and dynamic performance of national industrial clusters</p>
-  <p class="publication-info">
-    <span class="publication-venue">Papers in Regional Science (2020)</span>
-    <a href="https://doi.org/10.1111/pirs.12517" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Testing the static and dynamic performance of national industrial clusters</em> (with S. Sarica and G. Bansal)</p>
+<p><font color="darkgray">Papers in Regional Science (2020)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1111/pirs.12517">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">Trade openness, economic growth and the global financial crisis of 2007-2009 in Latin America</p>
-  <p class="publication-info">
-    <span class="publication-venue">Journal of International Development (2019)</span>
-    <a href="https://doi.org/10.1002/jid.3411" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>Trade openness, economic growth and the global financial crisis of 2007-2009 in Latin America</em></p>
+<p><font color="darkgray">Journal of International Development (2019)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1002/jid.3411">[Link]</a></span></p>
 
-<div class="publication">
-  <p class="publication-title">On the performance of creative industries: Evidence from Mexican metropolitan areas</p>
-  <p class="publication-info">
-    <span class="publication-venue">Papers in Regional Science (2017)</span>
-    <a href="https://doi.org/10.1111/pirs.12154" class="publication-link">[Link]</a>
-  </p>
-</div>
+<p><em>On the performance of creative industries: Evidence from Mexican metropolitan areas</em></p>
+<p><font color="darkgray">Papers in Regional Science (2019)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1111/pirs.12403">[Link]</a></span></p>
+
+<p><strong>COVID-19</strong></p>
+
+<p><em>What have we learned about socioeconomic inequalities in the spread of COVID-19? A systematic review</em> (with L. Rebollar-Ruelas, E. Gaytán-Alfaro)</p>
+<p><font color="darkgray">Sustainable Cities and Society (2022)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.scs.2022.104158">[Link]</a></span></p>
+
+<p><em>Human mobility behavior in COVID-19: A systematic literature review and bibliometric analysis</em></p>
+<p><font color="darkgray">Sustainable Cities and Society 70 (2021)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.scs.2021.102916">[Link]</a></span></p>
+
+<p><em>The main factors influencing COVID-19 spread and deaths in Mexico: A comparison between phases I and II</em> (with F. Gasca-Sanchez)</p>
+<p><font color="darkgray">Applied Geography (2021)</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1016/j.apgeog.2021.102523">[Link]</a></span></p>
+
+<p><strong>Conference Papers</strong></p>
+
+<p><em>Predicting on-road carbon emissions using traffic camera images</em> (with P. Srinivasan, C. Teng, Y. Kuan, and K. Yeoh)</p>
+<p><font color="darkgray">IEEE TENCON 2024</font><span style="margin-left: 5px;"><a href="https://www.dropbox.com/scl/fi/4wlq2dqpwalub10wp2hid/Predicting-on-road-carbon-emissions-using-traffic-camera-images.pdf?rlkey=srxb4enng81qabe2xu02e082a&st=7rh3t51q&dl=0">[Link]</a></span></p>
+
+<p><em>Walkable Southeast Asia: A comparative study between Phnom Penh and Ho Chi Minh City</em> (with P. Srinivasan, R. R. Zheng Hao, Y. Zuo Tan, and Y. Guo)</p>
+<p><font color="darkgray">IEEE TENCON 2024</font><span style="margin-left: 5px;"><a href="https://www.dropbox.com/scl/fi/dbw2i0vejjps2s9k9ybnz/Walkable_south_east_Asia_manuscript.pdf?rlkey=2flo3ap283fst8fj2o5erjw91&st=4mhfogvh&dl=0">[Link]</a></span></p>
+
+<p><em>Data-driven models of selfish routing: Why price of anarchy does depend on network topology</em> (with V. Bilò, B. Monnot, G. Piliouras and C. Vinci)</p>
+<p><font color="darkgray">WINE 2020</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1007/978-3-030-64946-3_18">[Link]</a></span></p>
+
+<p><em>Data-driven thinking for urban spaces, immediate environment, and body responses</em> (with B. Tunçer and F. Scandola)</p>
+<p><font color="darkgray">CAAD Futures 2019</font><span style="margin-left: 5px;"><a href="http://papers.cumincad.org/data/works/att/cf2019_024.pdf">[Link]</a></span></p>
+
+<p><em>Routing games in the wild: Efficiency, equilibration and regret</em> (with B. Monnot and G. Piliouras)</p>
+<p><font color="darkgray">WINE 2017</font><span style="margin-left: 5px;"><a href="https://doi.org/10.1007/978-3-319-71924-5_24">[Link]</a></span></p>
 
