@@ -15,17 +15,18 @@ title: Teaching
 <em>2021 - 2024</em></p>
 <ul>
   <li><span style="color: #5a5a5a;"><strong>10.022 Modelling Uncertainty</strong></span> (Year 1)</li>
-  <li><span style="color: #5a5a5a;"><strong>Capstone</strong></span> (Year 4)
+ <li><span style="color: #5a5a5a;"><strong>Capstone</strong></span> (Year 4)
     <ul>
-      <li><a href="https://capstone2021.sutd.edu.sg/staff/francisco-benita">2021/2022 Projects</a></li>
-      <li><a href="https://capstone2022.sutd.edu.sg/staff/francisco-benita">2022/2023 Projects</a></li>
       2023/2024 Projects:
       <ul>
-        <li><a href="https://capstoneshowcase.sutd.edu.sg/project/proj-s08-continental-self-automated-containment-system/">Project 1</a>; <a href="https://capstoneshowcase.sutd.edu.sg/project/airport-mapper/">Project 2</a>;
-       <a href="https://capstoneshowcase.sutd.edu.sg/project/proj-s14-enerva-marine-optimizing-maritime-shipping-efficiency-with-ai/">Project 3</a></li>
+        <li><a href="https://capstoneshowcase.sutd.edu.sg/project/proj-s08-continental-self-automated-containment-system/">Project 1</a></li>
+        <li><a href="https://capstoneshowcase.sutd.edu.sg/project/airport-mapper/">Project 2</a></li>
+        <li><a href="https://capstoneshowcase.sutd.edu.sg/project/proj-s14-enerva-marine-optimizing-maritime-shipping-efficiency-with-ai/">Project 3</a></li>
       </ul>
+      <li><a href="https://capstone2022.sutd.edu.sg/staff/francisco-benita">2022/2023 Projects</a></li>
+      <li><a href="https://capstone2021.sutd.edu.sg/staff/francisco-benita">2021/2022 Projects</a></li>
     </ul>
-    <p><font color="darkgray">3rd place Faculty Awards (2021); 3rd place Faculty Awards (2022); 1st place Public Award (2023/2024)</font></p>
+    <p><font color="darkgray">1st place Public Award (2023/2024); 3rd place Faculty Awards (2022); 3rd place Faculty Awards (2021)</font></p>
   </li>
   <li><span style="color: #5a5a5a;"><strong>40.014 Engineering Systems Architecture</strong></span> (Year 2)</li>
 </ul>
