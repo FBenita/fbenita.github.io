@@ -21,7 +21,7 @@ title: Home
     <p>Before my position at Tecnológico de Monterrey, I was a Lecturer at the Singapore University of Technology and Design, where I also spent five memorable years as a Research Fellow. I earned my Ph.D. in Engineering Sciences from Tecnológico de Monterrey.</p>
     
     <h2>Interests</h2>
-    <p> I am interested on the application of operations research methodologies and statistical methods to urban systems, transportation, and travel behavior and decision support systems. I also have some research on regional economics and machine learning. <p>
+    <p> I am particularly interested in applying operations research methodologies and statistical methods to urban systems, transportation, travel behavior, and decision support systems. <p>
     
     <h2>Open Positions</h2>
     <p>If you are interested in potential funded PhD opportunities in in transportation systems, big data analytics in supply chain, algorithmic optimization or computational statistics, please feel free to contact me.</p>
