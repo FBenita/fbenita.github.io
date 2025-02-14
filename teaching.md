@@ -7,17 +7,17 @@ Below is a list of my teaching experience categorized by educational level.
 
 ## Undergraduate Courses
 
-<p><strong>School of Engineering and Sciences, Tecnológico de Monterrey</strong> <br>
+<p><span style="color: #2e6da4;"><strong>School of Engineering and Sciences, Tecnológico de Monterrey</strong></span> <br>
 <em>2025 - Present</em></p>
 <ul>
-  <li><strong>IN2007B Disruptive Design of Organizational Processes</strong> (Year 3)</li>
+  <li><span style="color: #5a5a5a;"><strong>IN2007B Disruptive Design of Organizational Processes</strong></span> (Year 3)</li>
 </ul>
 
-<p><strong>Engineering Systems and Design, Singapore University of Technology and Design</strong> <br>
+<p><span style="color: #2e6da4;"><strong>Engineering Systems and Design, Singapore University of Technology and Design</strong></span> <br>
 <em>2021 - 2024</em></p>
 <ul>
-  <li><strong>10.022 Modelling Uncertainty</strong> (Year 1)</li>
-  <li><strong>Capstone</strong> (Year 4)
+  <li><span style="color: #5a5a5a;"><strong>10.022 Modelling Uncertainty</strong></span> (Year 1)</li>
+  <li><span style="color: #5a5a5a;"><strong>Capstone</strong></span> (Year 4)
     <ul>
       <li><a href="https://capstone2021.sutd.edu.sg/staff/francisco-benita">2021/2022 Projects</a></li>
       <li><a href="https://capstone2022.sutd.edu.sg/staff/francisco-benita">2022/2023 Projects</a></li>
@@ -32,20 +32,20 @@ Below is a list of my teaching experience categorized by educational level.
     <p><font color="darkgray">3rd place Faculty Awards (2022)</font></p>
     <p><font color="darkgray">1st place Public Award (2023/2024)</font></p>
   </li>
-  <li><strong>40.014 Engineering Systems Architecture</strong> (Year 2)</li>
+  <li><span style="color: #5a5a5a;"><strong>40.014 Engineering Systems Architecture</strong></span> (Year 2)</li>
 </ul>
 
-<p><strong>Design and Artificial Intelligence, Singapore University of Technology and Design</strong> <br>
+<p><span style="color: #2e6da4;"><strong>Design and Artificial Intelligence, Singapore University of Technology and Design</strong></span> <br>
 <em>2023 - 2024</em></p>
 <ul>
-  <li><strong>60.008 Systems Design Studio</strong> (Year 3)</li>
+  <li><span style="color: #5a5a5a;"><strong>60.008 Systems Design Studio</strong></span> (Year 3)</li>
 </ul>
 
 ## Postgraduate Courses
 
-<p><strong>ModularMaster in Data Science (Healthcare), Singapore University of Technology and Design</strong> <br>
+<p><span style="color: #2e6da4;"><strong>ModularMaster in Data Science (Healthcare), Singapore University of Technology and Design</strong></span> <br>
 <em>2022 - 2024</em></p>
 <ul>
-  <li><strong>Data Wrangling and Preparation</strong></li>
-  <li><strong>Foundation of Data Science</strong></li>
+  <li><span style="color: #5a5a5a;"><strong>Data Wrangling and Preparation</strong></span></li>
+  <li><span style="color: #5a5a5a;"><strong>Foundation of Data Science</strong></span></li>
 </ul>
