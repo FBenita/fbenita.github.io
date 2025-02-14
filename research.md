@@ -7,9 +7,11 @@ You can find the full list of my publications on [Google Scholar](https://schola
 
 ## Selected Papers
 
-### Transportation Systems & Travel Behaviour
+
 
 <p><strong>Transportation Systems & Travel Behaviour</strong></p>
+
+
 <p><em>Exploring non-mandatory travel behavior in Jakarta City: travel time, trip frequency, and socio-demographic influences</em></p>
 <p><font color="red">Transportation Research Interdisciplinary Perspectives (2023)</font></p>
 <p><a href="https://doi.org/10.1016/j.trip.2023.100896">Link</a></p>
@@ -38,9 +40,11 @@ You can find the full list of my publications on [Google Scholar](https://schola
 <p><font color="red">Health & Place (2019)</font></p>
 <p><a href="https://doi.org/10.1016/j.healthplace.2019.01.014">Link</a></p>
 
-### Decision Support Systems
+
 
 <p><strong>Decision Support Systems</strong></p>
+
+
 <p><em>A Novel Decision Support Framework for Multi-Objective Aircraft Routing Problem</em> (with F. López-Ramos, and N. Antunes Ribeiro)</p>
 <p><font color="red">Under review</font></p>
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4704984">Link</a></p>
@@ -61,9 +65,11 @@ You can find the full list of my publications on [Google Scholar](https://schola
 <p><font color="red">Smart Learning Environments (2021)</font></p>
 <p><a href="https://doi.org/10.1186/s40561-021-00153-y">Link</a></p>
 
-### Optimization Methods
+
 
 <p><strong>Optimization Methods</strong></p>
+
+
 <p><em>A cooperative bargaining framework for decentralized portfolio optimization</em> (with S. Nasini and R. Nessah)</p>
 <p><font color="red">Journal of Mathematical Economics (2022)</font></p>
 <p><a href="https://doi.org/10.1016/j.jmateco.2022.102789">Link</a></p>
@@ -92,9 +98,10 @@ You can find the full list of my publications on [Google Scholar](https://schola
 <p><font color="red">SIAM Journal on Optimization (2016)</font></p>
 <p><a href="https://doi.org/10.1137/141000889">Link</a></p>
 
-### Regional Economics
 
 <p><strong>Regional Economics</strong></p>
+
+
 <p><em>On the circular entrepreneurship across continents: An analysis of terms of business descriptors</em> (with P. Srinivasan)</p>
 <p><font color="red">Business Strategy & Development (2024)</font></p>
 <p><a href="https://doi.org/10.1002/bsd2.70006">Link</a></p>
@@ -115,9 +122,10 @@ You can find the full list of my publications on [Google Scholar](https://schola
 <p><font color="red">Papers in Regional Science (2019)</font></p>
 <p><a href="https://doi.org/10.1111/pirs.12403">Link</a></p>
 
-### COVID-19
 
 <p><strong>COVID-19</strong></p>
+
+
 <p><em>What have we learned about socioeconomic inequalities in the spread of COVID-19? A systematic review</em> (with L. Rebollar-Ruelas, E. Gaytán-Alfaro)</p>
 <p><font color="red">Sustainable Cities and Society (2022)</font></p>
 <p><a href="https://doi.org/10.1016/j.scs.2022.104158">Link</a></p>
@@ -130,9 +138,10 @@ You can find the full list of my publications on [Google Scholar](https://schola
 <p><font color="red">Applied Geography (2021)</font></p>
 <p><a href="https://doi.org/10.1016/j.apgeog.2021.102523">Link</a></p>
 
-### Conference Papers
 
 <p><strong>Conference Papers</strong></p>
+
+
 <p><em>Predicting on-road carbon emissions using traffic camera images</em> (with P. Srinivasan, C. Teng, Y. Kuan, and K. Yeoh)</p>
 <p><font color="red">IEEE TENCON 2024</font></p>
 <p><a href="https://www.dropbox.com/scl/fi/4wlq2dqpwalub10wp2hid/Predicting-on-road-carbon-emissions-using-traffic-camera-images.pdf?rlkey=srxb4enng81qabe2xu02e082a&st=7rh3t51q&dl=0">Link</a></p>
