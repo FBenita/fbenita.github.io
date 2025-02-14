@@ -2,11 +2,11 @@ layout: default
 title: Home
 ---
 
+![Francisco Benita](https://github.com/FBenita/fbenita.github.io/blob/8103cc150747880551a7e355b89d3e0f224a2cde/face.jpg?raw=true "Francisco Benita")
+
 # Francisco Benita
 ## Research Professor, School of Engineering & Sciences
 ### Tecnológico de Monterrey
-
-![Francisco Benita](https://github.com/FBenita/fbenita.github.io/blob/8103cc150747880551a7e355b89d3e0f224a2cde/face.jpg)
 
 Welcome to my personal page! I am Francisco Benita, currently serving as a Research Professor at the School of Engineering & Sciences at Tecnológico de Monterrey. Additionally, I hold the position of Adjunct Lecturer at the Engineering Systems and Design Pillar at the Singapore University of Technology and Design.
 
