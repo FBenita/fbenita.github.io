@@ -3,7 +3,7 @@ title: People
 ---
 
 # Graduate Students
-* Lim Xin Hui Kelly, Master student at SUTD, 2024 – 2025
+* Lim Xin Hui Kelly (Master student at SUTD, 2024 – 2025)
 
 # Research Assistants
 * Padmapriya Srinivasan (2021 – 2024, to SUTD Aviation Studies Institute)
@@ -17,7 +17,7 @@ title: People
 * Darren Chan Yu Hao (SUTD)
 * Garima Panchal (SUTD)
 * Raj Narayan Sikder (SUTD)
-* Nguyen Quoc Dung (SUTD)
+* Chin Wei Min (SUTD)
 * Nathan Ansel (SUTD)
 * Nguyen Quoc Dung (SUTD)
 * Louise Vennesia Aristha Prajugo (SUTD)
@@ -34,6 +34,3 @@ title: People
 * Anna Clara Rönnäng (Chalmers University of Technology)
 * Josefin Maja Lilja (Chalmers University of Technology)
 * Maja Emmy Olsson (Chalmers University of Technology)
-
-
-
