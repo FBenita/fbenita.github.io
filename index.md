@@ -13,7 +13,7 @@
   </div>
   <div style="flex: 2;">
     <h2>Welcome</h2>
-    <p>Welcome to my personal page! I am Francisco Benita, currently serving as a Research Professor at the School of Engineering & Sciences at Tecnológico de Monterrey. Additionally, I hold the position of Adjunct Lecturer at the Engineering Systems and Design Pillar at the Singapore University of Technology and Design (SUTD).</p>
+    <p>Welcome to my personal website! I am Francisco Benita, a Research Professor at the School of Engineering & Sciences at Tecnológico de Monterrey. In addition, I serve as an Adjunct Lecturer in the Engineering Systems and Design Pillar at the Singapore University of Technology and Design (SUTD).</p>
     
     <p>Before my position at Tecnológico de Monterrey, I was a Lecturer at the SUTD, where I also spent five memorable years as a Research Fellow. I earned my Ph.D. in Engineering Sciences from Tecnológico de Monterrey.</p>
     
