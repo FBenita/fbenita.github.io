@@ -39,6 +39,14 @@ title: People
 * Josefin Maja Lilja (Chalmers University of Technology)
 * Maja Emmy Olsson (Chalmers University of Technology)
 
+# High School Students (Young Scholars Program)
+* Rayner Ng Zheng Hao (Temasek Junior College, 2024)
+* Yan Zuo Tan (Temasek Junior College, 2024)
+* Yatian Guo (Temasek Junior College, 2024)
+* Clement Chan Keen Teng (River Valley High School, 2024)
+* Yue Han Kuan (River Valley High School, 2024)
+* Kai Bo Yeoh (River Valley High School, 2024)
+
 # Collaborators
 
 I have been fortunate enough to collaborate with colleagues from various institutions. Below are some of my key collaborators:
