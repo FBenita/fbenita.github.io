@@ -25,7 +25,7 @@ title: Teaching
 
 ## Postgraduate Courses
 
-<p><span style="color: #2e6da4;"><strong>ModularMaster in Data Science (Healthcare), Singapore University of Technology and Design</strong></span> <br> <em>(2022 - 2024)</em></p>
+<p><span style="color: #2e6da4;"><strong>ModularMaster in Data Science (Healthcare), Singapore University of Technology and Design</strong></span> <br> <em>(2022 - Present)</em></p>
 <ul>
   <li><span style="color: #5a5a5a;"><strong>Data Wrangling and Preparation</strong></span></li>
   <li><span style="color: #5a5a5a;"><strong>Foundation of Data Science</strong></span></li>
