@@ -30,7 +30,7 @@
       <li>11/2024: Joined Tecnológico de Monterrey as Research Professor</li>
       <li>08/2024: Talk at Pennsylvania State University at Altoona on circular entrepreneurship (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bsd2.70006" target="_blank">paper</a>)</li>
       <li>02/2024: Open-source <a href="https://ddum-sutd.github.io/walkable_southeastasia-main/" target="_blank">repository</a> on data-driven assessment of walkability in Southeast Asian cities</li>
-      <li>05/2024: Workshop at GeoPython 2024 (University of Applied Sciences and Arts Northwestern Switzerland) on computing walkability indicators with open data</li>
+      <li>05/2024: Workshop at <a href="https://ddum-sutd.github.io/Image-based%20vehicle%20traffic%20monitoring/https://youtu.be/NObfxbVq1fs?si=aBwKmSPAHIdNUJ6l" target="_blank">GeoPython 2024</a>   (University of Applied Sciences and Arts Northwestern Switzerland) on computing walkability indicators with open data</li>
       <li>01/2024: Talk at <a href="https://pomshk2024.hkust.edu.hk/" target="_blank">14th POMS-HK</a> on aircraft routing problems</li>
       <li>01/2024: <a href="https://ddum-sutd.github.io/Image-based%20vehicle%20traffic%20monitoring/" target="_blank">Educational Module</a> on Image-based vehicle traffic monitoring</li>
       <li>01/2024: New Grant from the National Supercomputing Centre (NSCC) Singapore (Project ID 15003859) for CPU and GPU card hours</li>
