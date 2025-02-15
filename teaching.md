@@ -20,7 +20,7 @@ title: Teaching
 
 <p><span style="color: #2e6da4;"><strong>Design and Artificial Intelligence, Singapore University of Technology and Design</strong></span> <br> <em>(2023 - 2024)</em></p>
 <ul>
-  <li><span style="color: #5a5a5a;"><strong>60.008 Systems Design Studio</strong></span></li>
+  <li><span style="color: #5a5a5a;"><strong>60.008 Systems Design Studio</strong></span> (<a href="https://www.sutd.edu.sg/dai/course-publication/simulation-of-grabfoods-delivery-system/">Project sample</a>)   </li> 
 </ul>
 
 ## Postgraduate Courses
