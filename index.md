@@ -13,13 +13,13 @@
   </div>
   <div style="flex: 2;">
     <h2>Welcome</h2>
-    <p>Welcome to my personal page! I am Francisco Benita, currently serving as a Research Professor at the School of Engineering & Sciences at Tecnológico de Monterrey. Additionally, I hold the position of Adjunct Lecturer at the Engineering Systems and Design Pillar at the Singapore University of Technology and Design.</p>
+    <p>Welcome to my personal page! I am Francisco Benita, currently serving as a Research Professor at the School of Engineering & Sciences at Tecnológico de Monterrey. Additionally, I hold the position of Adjunct Lecturer at the Engineering Systems and Design Pillar at the Singapore University of Technology and Design (SUTD).</p>
     
-    <p>Before my position at Tecnológico de Monterrey, I was a Lecturer at the Singapore University of Technology and Design, where I also spent five memorable years as a Research Fellow. I earned my Ph.D. in Engineering Sciences from Tecnológico de Monterrey.</p>
+    <p>Before my position at Tecnológico de Monterrey, I was a Lecturer at the SUTD, where I also spent five memorable years as a Research Fellow. I earned my Ph.D. in Engineering Sciences from Tecnológico de Monterrey.</p>
     
     <h2>Interests</h2>
-    <p>I am particularly interested in applying operations research methodologies and statistical methods to urban systems, transportation, travel behavior, and decision support systems.</p>
-    
+    <p>My research is multidisciplinary, bridging the fields of operations research, economics, statistics and urban planning. I apply  operations research methodologies and statistical techniques to address challenges in urban systems, transportation, travel behavior, and decision support systems.</p>
+
     <h2>Open Positions</h2>
     <p>If you are interested in potential funded PhD opportunities in transportation systems, big data analytics in supply chain, algorithmic optimization, or computational statistics, the PhD position is available at Tec de Monterrey. Please feel free to contact me at francisco_benita {at} tec {dot} mx.</p>
 
