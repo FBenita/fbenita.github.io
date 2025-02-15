@@ -3,7 +3,10 @@ title: People
 ---
 
 # Graduate Students
-* Lim Xin Hui Kelly (Master student at SUTD, 2024 – 2025)
+* Lim Xin Hui Kelly (Master's student at SUTD, 2024 – 2025)
+* Luz Alejandra Lozano Vazquez (Master's student at UAZ, 2020 – 2022)
+* Leonardo Rebollar Ruelas (Co-supervised Master's student at COLEF, 2020 – 2022)
+* Rafael García Quezada (Master's student at UAZ, 2015 – 2017)
 
 # Research Assistants
 * Padmapriya Srinivasan (2021 – 2024, to SUTD Aviation Studies Institute)
