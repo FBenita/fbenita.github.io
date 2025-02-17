@@ -57,7 +57,7 @@ I have been fortunate enough to collaborate with colleagues from various institu
 * [Prof. Stephan Dempe](https://scholar.google.de/citations?user=51BPMYwAAAAJ&hl=de) (TU Bergakademie Freiberg)
 * [Prof. Patrick Mehlitz](https://www.uni-marburg.de/en/fb12/research-groups/optimi/team/leader-of-the-working-group) (Philipps-Universität Marburg)
 * [Prof. Juan Carlos Munoz](https://www.ing.uc.cl/academicos-e-investigadores/juan-carlos-munoz-abogabir/) (Pontificia Universidad Católica de Chile)
-* [Asc. Prof. Georgios Piliouras](https://www.sutd.edu.sg/profile/georgios-piliouras) (Google DeepMind, SUTD)
+* [Assoc. Prof. Georgios Piliouras](https://www.sutd.edu.sg/profile/georgios-piliouras) (Google DeepMind, SUTD)
 * [Assoc. Prof. Stefano Nasini](https://www.ieseg.fr/en/faculty-and-research/professor/?id=2663) (IESEG School of Management)
 * [Assoc. Prof. I-Ting Chuang](https://profiles.auckland.ac.nz/iting-chuang/about) (University of Auckland)
 * [Assoc. Prof. Edgar David Gaytán Alfaro](https://www.colef.mx/integrante/edgar-david-gaytan-alfaro/) (COLEF)
